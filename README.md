@@ -1,2 +1,0 @@
-# medpayWork
-medpay
